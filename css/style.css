@@ -1,0 +1,31 @@
+@import url("components/avatar.css");
+@import url("components/container.css");
+@import url("components/card_white.css");
+@import url("components/title.css");
+@import url("components/list.css");
+
+body {
+  background-color: #DFDDDF;
+  text-align: justify;
+  text-decoration: none;
+  line-height: 1.8;
+  letter-spacing: 1px;
+  font-family: 'Helvetica', sans-serif;
+  font-size: 17px;
+}
+
+a {
+  font-family: 'Roboto', sans-serif;
+  text-decoration: none;
+  color: #6B72E1;
+  font-weight: 600;
+  font-size: 16px;
+}
+
+a:hover {
+  color: black;
+}
+
+#introduction p {
+  margin-bottom: 40px;
+}
